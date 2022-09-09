@@ -33,4 +33,4 @@ The analysis of the election show that:
 - The winner of the election was: Diana DeGetter with 272,892 vote count and 73.8% of the total votes
 
 ## Election-Audit Summary:
-The python script we created can be used to audit not only other congressional districts but also senatorial and local elections. We can further our analysis by breaking down the number of votes and the percentage of each candidate's total votes by county. In addition, we can determine the county with the lowest number of votes. The low voter turnout may be helpful in preparation for the next election to encourage higher participation. This information will be helpful when finding ways to increase voter turnout in the next elections. 
+The python script we created can be used to audit not only other congressional districts but also senatorial and local elections. We can further our analysis by breaking down the number of votes and the percentage of each candidate's total votes by county. In addition, we can determine the county with the lowest number of votes. This information will be helpful when finding ways to increase voter turnout in the next elections. 
